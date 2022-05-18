@@ -1,0 +1,8 @@
+site_name: MkLorum
+pages:
+    - Home: index.md
+    - Articles:
+        - Article 1: articles/article-1.md
+        - Article 2: articles/article-2.md
+    - About: about.md
+theme: readthedocs
