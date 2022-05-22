@@ -1,5 +1,5 @@
 # bferrema.io
 
-[https://bferrema.gitlab.io/index.md](https://bferrema.gitlab.io/index.md)
+[https://bferrema.github.io](https://bferrema.github.io)
 
 Example github pages with markdown
