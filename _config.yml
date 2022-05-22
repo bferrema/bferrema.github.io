@@ -1,7 +1,7 @@
 name: Example doc
 url: "https://bferrema.github.io"
-theme: jekyll-theme-minimal
-#markdown: kramdown
+#theme: jekyll-theme-minimal
+markdown: kramdown
 title: Menu
 description: 
 #links:
